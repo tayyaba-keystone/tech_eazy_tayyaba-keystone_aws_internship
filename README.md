@@ -39,5 +39,5 @@ Java Version Note
 The project hosted at https://github.com/techeazy-consulting/techeazy-devops specifies Java 21 in its pom.xml.
 Although initially told to use Java 19, I used Java 21 to match the project's dependencies and ensure successful build and deployment.
 
-
+![Image](https://github.com/user-attachments/assets/c905adfd-26cf-417e-91e3-2d650cdf5d5d)
 
