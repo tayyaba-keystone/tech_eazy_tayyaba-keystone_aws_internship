@@ -5,6 +5,7 @@ provider "aws" {
 data "aws_vpc" "default" {
   default = true
 }
+## Edited in review branch for PR creation
 
 resource "aws_security_group" "allow_web_ssh" {
   name        = "allow_web_ssh"
